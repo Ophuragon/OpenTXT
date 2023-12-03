@@ -1,2 +1,1 @@
-var age = 25;
-print age;
+print("If you see this, You succesfully have opentxt Enjoy! Opentxt has python code support too due to it being built off python, Thanks and have fun.")
