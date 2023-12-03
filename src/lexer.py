@@ -4,4 +4,5 @@ class Lexer(object):
     self.source_code = source_code
 
 def tokenize(self):
-  print('test')
+
+  tokens = []
