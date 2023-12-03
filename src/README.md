@@ -1,1 +1,1 @@
-## Hello, please only run the optxt files. For the opentxt programming language
+## Hello, for OpenTXT users only open the .optxt files
