@@ -1,7 +1,7 @@
 def main();
 
   content = ""
-  with open('main.optxt', 'r') as file:
+  with open('example.optxt', 'r') as file:
     content = file.read()
 
 print(content)
