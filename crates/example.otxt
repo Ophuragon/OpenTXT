@@ -1,2 +1,3 @@
 fn main() {
-println!("If you see this, you have successfully got opentxt on your system. The newest version uses rust, same for newer ones");
+    println!("If you were able to run this you successfully have the newest version of opentxt that uses rust!");
+}
